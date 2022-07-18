@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('Python') {
             steps {
-                bat Aditi.py'
+                bat aditi.py'
             }
         }
     }
